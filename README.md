@@ -15,4 +15,4 @@ Clone this repository into your working directory. For best results, files shoul
 After compilation, the resulting program can run stand-alone, either in interactive or non-interactive mode
 ### Credits
 
-All code written by [Francis Nwuko([https://github.com/f6za) and [Olatunbosun Agunbiade(https://github.com/tunbosunxx)]
+All code written by [Francis Nwuko([https://github.com/f6za) and Olatunbosun Agunbiade(https://github.com/tunbosunxx)]
