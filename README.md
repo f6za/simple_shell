@@ -6,7 +6,7 @@ This simple_shell is not supossed to be an exact imitation of the original Unix 
 
 .SH OVERVIEW
 
-This program is made to complete the team project 0x16. C - Simple Shell at Holberton School. A README.md file is provided to give a better documentation of this program
+This program is made to complete the team project C - Simple Shell at ALX. A README.md file is provided to give a better documentation of this program
 
 Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89
 
